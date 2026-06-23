@@ -53,5 +53,5 @@ test-suite tests
     SafetyTest
     TypeCheckerTest
   hs-source-dirs: test
-  build-depends: base, timed-typaol, hspec >= 2.10, QuickCheck >= 2.14, containers, mtl >= 2.3
+  build-depends: base, timed-typaol, hspec >= 2.10, containers, mtl >= 2.3
   default-language: GHC2021

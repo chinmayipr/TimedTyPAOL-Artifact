@@ -25,7 +25,7 @@ executable checks.
   developed and tested with). Any GHC supporting GHC2021 (>= 9.2) is
   expected to work.
 * Dependencies (fetched automatically by cabal from Hackage): containers,
-  mtl, and for the tests hspec and QuickCheck.
+  mtl, and for the tests hspec.
 * Tested on macOS (Apple Silicon); the code is pure Haskell with no
   OS-specific parts.
 
